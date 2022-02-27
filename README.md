@@ -1,5 +1,5 @@
 ![Header](https://user-images.githubusercontent.com/98165666/155890232-54e88944-a838-401c-96ee-4985a1288145.gif)
-<!--
+
 My name is Florencia Biazzi and I'm a Software Engineering student. I live in Montevideo, Uruguay and I'm 23 years old.
 I'm huge fan of cofee and I love looking for the best way to solve problems.
 
@@ -11,4 +11,4 @@ I'm huge fan of cofee and I love looking for the best way to solve problems.
 
 - E-mail : florbiazzi@gmail.com
 - LinkedIn : [florenciabiazzi](https://www.linkedin.com/in/florencia-biazzi/)
--->
+
