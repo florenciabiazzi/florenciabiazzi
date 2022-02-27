@@ -1,4 +1,4 @@
-![Header](https://user-images.githubusercontent.com/98165666/155890232-54e88944-a838-401c-96ee-4985a1288145.gif)
+<img src="https://user-images.githubusercontent.com/98165666/155890232-54e88944-a838-401c-96ee-4985a1288145.gif" width="100%">
 
 My name is Florencia Biazzi and I'm a Software Engineering student. I live in Montevideo, Uruguay and I'm 23 years old.
 I'm huge fan of cofee and I love looking for the best way to solve problems.
